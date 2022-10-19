@@ -10,7 +10,7 @@ body {
   align-items: center;
   min-height: 100vh;
   background: #282828;
-  background-image: linear-gradient(to right, #0f0c29, #302b63, #24243e) !important;
+  background-image: linear-gradient(90deg,#939393,#524d89,#24243e) !important;
 }
 
 .clock {
@@ -21,7 +21,7 @@ body {
   align-items: center;
   background: url(./clock.png);
   background-size: cover;
-  border: 4px solid #0f0f4;
+  border: 4px solid #3b385a;
   border-radius: 50%;
   box-shadow: -4px -4px 10px rgba(67, 67, 67, 0.5),
     inset 4px 4px 10px rgba(0, 0, 0, 0.5),
@@ -82,7 +82,7 @@ body {
   position: absolute;
   width: 8px;
   height: 80px;
-  background: #ffb510;
+  background: #010101;
   z-index: 9;
   border-radius: 6px 6px 0 0;
 }
